@@ -1,0 +1,9 @@
+bd- carpeta que contiene los snipets o querys de la bd listos para ejeuctar
+clases.- contiene las clases de cada modulo con sus respectivos metodos de crud
+css.- contiene los cripts css que serviran para dar estilo persinalizado en caso de ser util
+img.- contine todas la imagenes que necesistemos agregar a las vistas 
+archvos.- todas la imagenes de los producto agregados
+js.- contiene todos los scrips js para cada modulo para ejecutar las funcones CRUD 
+librerias.- contendra librerias para la cracion de pdf jquery,alertiffy, bootstrap select 2
+Procesos.- contine archivos intermedios entre las clases y vistas, estos mandaran informacion entre una y otra
+vistas.- contendra todas las vistas de cada uno de los modulos
