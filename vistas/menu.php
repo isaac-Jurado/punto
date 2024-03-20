@@ -20,11 +20,11 @@
         </a>
 
         <nav class="navbar">
-            <a href="#" > <i class="fa-solid fa-house" style="margin-right: 1rem;"> </i>Home</a>
+            <a href="inicio.php" > <i class="fa-solid fa-house" style="margin-right: 1rem;"> </i>Home</a>
             <a href="#"><i class="fa-solid fa-book-open" style="margin-right: 1rem;"></i>Inventario</a>
             <a href="#"><i class="fa-solid fa-cart-shopping" style="margin-right: 1rem;"></i>Ventas</a>
             <a href="#"><i class="fa-solid fa-user" style="margin-right: 1rem;"></i>Usuarios</a>
-            <a href="#"><i class="fa-solid fa-x" style="margin-right: 1rem;"></i>Salir</a>
+            <a href="../procesos/salir.php"><i class="fa-solid fa-x" style="margin-right: 1rem;"></i>Salir</a>
         </nav>
     </header>
 
